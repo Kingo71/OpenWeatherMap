@@ -10,6 +10,8 @@ OpenWeatherMap weather(WiFiClient client, String apiKey);
 
 ## .getData(String cityID)
 
+Get weather information about the selected city.
+
 return GET server response.
 
 ## .getTemperature()
