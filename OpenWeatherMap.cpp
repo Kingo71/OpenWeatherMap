@@ -1,5 +1,6 @@
 #include "OpenWeatherMap.h"
 
+// Openweathermap Certificate
 const char *root_ca =
 	"-----BEGIN CERTIFICATE-----\n"
 	"MIIFZTCCBE2gAwIBAgIRALzs5v3uLgXTRv5sxpMwnu8wDQYJKoZIhvcNAQELBQAw\n"
