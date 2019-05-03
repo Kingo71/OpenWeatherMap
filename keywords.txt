@@ -1,0 +1,8 @@
+OpenWeatherMap  KEYWORD1
+getData	KEYWORD2
+getTemperature  KEYWORD2
+getHumidity KEYWORD2
+getCityName   KEYWORD2
+getForecast KEYWORD2
+getForecastIdx  KEYWORD2
+getPressure KEYWORD2

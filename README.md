@@ -2,7 +2,7 @@
 
 ESP32 OpenWeatherMap library
 
-# Usage
+## Usage
 
 OpenWeatherMap weather(WiFiClient client, String apiKey);
 
